@@ -41,7 +41,7 @@ prepare_data_disease_vs_disease <- function(level,model_type){
   taxa_status_f <- taxa_f[,colSums(taxa_f != 0)>0]
   taxa_status_f <- as.data.frame(taxa_status_f)
   taxa_status_f$Status <- c(as.character(status))
-  write.table(as.data.frame(taxa_status_f), file=paste0(model_type,"_16s_",level,"_adults.txt"),
+  write.table(as.data.frame(taxa_status_f), file=paste0(model_type,"_16s_",level,"_Adults.txt"),
               sep="\t", col.names = T,row.names = F, quote = F)
   #return(taxa_status_f)
 }
