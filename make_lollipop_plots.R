@@ -1,6 +1,6 @@
 ###Written by Angelina Volkova on 05/18/2020
 ###This script makes lollipop and logfc plots
-###of feature ranking
+###of feature ranked features
 
 library(ggplot2)
 library(RColorBrewer)

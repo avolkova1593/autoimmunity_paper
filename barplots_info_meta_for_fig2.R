@@ -1,6 +1,6 @@
 ###Written by ANgelina Volkova on 05/10/2020
 ###This script makes horizontal bars and bars of the number of healthy 
-###and disease samples in each of the metagenomics studies studies
+###and disease samples in each of the metagenomics studies
 library(ggplot2)
 library(ComplexHeatmap)
 set.seed(234)

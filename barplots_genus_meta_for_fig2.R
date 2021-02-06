@@ -1,6 +1,6 @@
 #### Written by Angelina Volkova on 05/15/2020
-#### This script is for making bar plots for each of the studies
-#### both on genus level
+#### This script is for making bar plots for each of the metagenomics 
+#### studies on genus level
 library(plyr)
 library(reshape)
 library(ggplot2)
