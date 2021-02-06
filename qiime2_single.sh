@@ -4,7 +4,7 @@
 ###${1} is a directory containing individual study data
 ###${2} is a rarefaction depth
 ###${3} is a taxonomic level (6 for genus, 7 for species)
-
+#!/bin/bash
 output="output_directory"
 
 qiime tools import \
