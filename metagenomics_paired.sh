@@ -1,7 +1,7 @@
 ###Written by Angelina Volkova on 05/05/2020
 ###This script processes paired read metagenomics data
 ###with the accession numbers being supplied as a txt file
-
+#!/bin/bash
 module unload anaconda2/cpu/5.2.0
 module load python/cpu/2.7.15
 module load fastx-toolkit/0.0.13
