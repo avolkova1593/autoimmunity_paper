@@ -1,5 +1,5 @@
 This repository contains scripts for processing data for Volkova & Ruggles paper:  
-"Metagenomic Analysis ofAutoimmune DiseaseIdentifiesRobust Autoimmunity and 2 Disease Specific Microbial Signatures".  
+"Metagenomic Analysis of Autoimmune Disease Identifies Robust Autoimmunity and Disease Specific Microbial Signatures".  
 
 Brief description of each of the scripts:    
 
